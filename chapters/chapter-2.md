@@ -14,4 +14,4 @@ separately in each book's repository.
 
 ## Results
 
-There are no results. This is a test book.
+There is no result. This is a test book.
