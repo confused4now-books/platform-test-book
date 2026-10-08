@@ -19,18 +19,3 @@ for testing: the maintainer will recieve every suggestion as an issue.
 Placeholder text continues here. The chapter is short on purpose: the test is
 about where suggestions go, not about what they say.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
