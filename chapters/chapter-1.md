@@ -1,9 +1,10 @@
 ---
-title: "Chapter 1: Placeholder foundations"
+#title: "Chapter 1: Placeholder foundations"
+#### Test
 ---
 
 This chapter exists so that the suggest-edit form has a page to point at. Its
-text is placeholder and says nothing in particular.
+text is placeholder and says nothing in particular.  
 
 ## A first section
 

@@ -1,0 +1,6 @@
+{
+  "_note": "Which chapter each Word file became, so bringing the same file in again replaces the same chapter. Written by the Authoring Assistant and book-requests; keys are Word file names.",
+  "chapters": {
+    "testheaders.docx": "chapters/chapter-04.md"
+  }
+}

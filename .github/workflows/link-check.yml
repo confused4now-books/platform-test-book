@@ -1,0 +1,96 @@
+# Lychee checks links on push, on pull requests, and weekly. The weekly run is the
+# point: links rot without anything being pushed here.
+#
+# Runs the lychee binary directly instead of lychee-action: the action's entrypoint
+# evals its command line and crashes on filenames containing quotes or apostrophes,
+# which converted chapter titles will contain.
+name: Check links
+
+on:
+  push:
+    paths:
+      - "**/*.md"
+      - ".lycheeignore"
+      - ".github/workflows/link-check.yml"
+  pull_request:
+    paths:
+      - "**/*.md"
+      - ".lycheeignore"
+      - ".github/workflows/link-check.yml"
+  schedule:
+    - cron: "0 6 * * 1" # 06:00 UTC every Monday
+
+permissions:
+  contents: read
+  # Only for the comment on a pull request (the last step).
+  pull-requests: write
+  issues: write
+
+jobs:
+  lychee:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Install lychee
+        run: |
+          curl -sSfL -o /tmp/lychee.tar.gz \
+            https://github.com/lycheeverse/lychee/releases/download/lychee-v0.23.0/lychee-x86_64-unknown-linux-gnu.tar.gz
+          tar -xzf /tmp/lychee.tar.gz -C /tmp lychee
+          sudo mv /tmp/lychee /usr/local/bin/lychee
+
+      # Mail links are excluded by default in this lychee version (--exclude-mail
+      # was removed; do not re-add it).
+      #
+      # templates/ holds unrendered placeholders, so every URL in it contains a
+      # __TOKEN__ and cannot resolve. node_modules/ isn't ours.
+      #
+      # .lycheeignore is generated and contains this book's own domain: the site
+      # is not up when the first links to it are written, and a checker cannot
+      # tell "not built yet" from "broken".
+      - name: Run lychee
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: >
+          lychee --no-progress
+          --exclude-path templates --exclude-path node_modules
+          --accept 200,206,429 --hidden
+          --format json --output "$RUNNER_TEMP/lychee.json"
+          "**/*.md"
+
+      # The dead links, readably, in this run's log and, on a pull request (the author
+      # site's publish request among them), in one comment there that each run
+      # rewrites. The author site shows that comment as a notice beside Publish; it
+      # never stops publishing, since outside links rot whatever the author does. The
+      # first line and the "- <url> in <file> (<status>)" lines are what it reads
+      # (suggest-edit-function lib/author-console.mjs parseLinkCheck).
+      - name: Say which links are dead
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPORT: ${{ runner.temp }}/lychee.json
+          PR: ${{ github.event_name == 'pull_request' && github.event.pull_request.head.repo.full_name == github.repository && github.event.pull_request.number || '' }}
+          SHA: ${{ github.event.pull_request.head.sha || github.sha }}
+          REPO: ${{ github.repository }}
+        run: |
+          [ -f "$REPORT" ] || { echo "lychee wrote no report (it did not run)"; exit 0; }
+          node --input-type=module -e '
+            import { readFileSync, writeFileSync } from "node:fs";
+            const { error_map: errors = {} } = JSON.parse(readFileSync(process.env.REPORT, "utf8"));
+            const dead = Object.entries(errors).flatMap(([file, list]) => list.map((e) =>
+              `- ${e.url} in ${file.replace(/^\.\//, "")} (${e.status?.code ?? String(e.status?.text ?? "failed").split(" (")[0]})`));
+            const body = [`<!-- link-check sha=${process.env.SHA} -->`,
+              dead.length
+                ? `**${dead.length} ${dead.length === 1 ? "link" : "links"} did not work** when the book was checked. ${dead.length === 1 ? "It does" : "They do"} not stop the book being published; fix or remove ${dead.length === 1 ? "it" : "them"} when you can.`
+                : "Every link worked when the book was checked.",
+              "", ...dead].join("\n");
+            console.log(body);
+            writeFileSync("comment.md", body + "\n");
+          '
+          [ -n "$PR" ] || exit 0
+          id=$(gh api "repos/$REPO/issues/$PR/comments?per_page=100" --jq '[.[] | select(.body | startswith("<!-- link-check sha="))] | last | .id // empty')
+          if [ -n "$id" ]; then
+            gh api -X PATCH "repos/$REPO/issues/comments/$id" -F body=@comment.md >/dev/null
+          else
+            gh api "repos/$REPO/issues/$PR/comments" -F body=@comment.md >/dev/null
+          fi
