@@ -3,7 +3,6 @@
 #### Test
 ---
 
-
 This chapter exists so that the suggest-edit form has a page to point at. Its
 text is placeholder and says nothing in particular.  
 
@@ -18,4 +17,3 @@ for testing: the maintainer will recieve every suggestion as an issue.
 
 Placeholder text continues here. The chapter is short on purpose: the test is
 about where suggestions go, not about what they say.
-
