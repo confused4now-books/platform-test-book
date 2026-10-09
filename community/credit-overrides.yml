@@ -1,0 +1,4 @@
+# Credit overrides (see docs/editing-the-textbook.md, "Authors, editors and contributors").
+# Batch 2a check: hiding a contributor removes them on the next build.
+hide:
+  - Dept Coordinator Test

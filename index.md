@@ -12,7 +12,7 @@ readers, and the text is placeholder.
 
 The real textbook is at [social-research-methods.confused4now.org](https://social-research-methods.confused4now.org).
 
-## Chapters
+## Contents
 
 1. [[chapters/chapter-01|Chapter 1: Placeholder foundations]]
 2. [[chapters/chapter-02|Chapter 2: Placeholder methods]]
