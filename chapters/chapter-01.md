@@ -1,4 +1,6 @@
 ---
+authors:
+  - "Platform Test Author"
 #title: "Chapter 1: Placeholder foundations"
 #### Test
 ---
