@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "contributors": [
+    {
+      "name": "alec",
+      "counts": {
+        "edit": 0,
+        "note": 0,
+        "suggestion": 1,
+        "commit": 0
+      },
+      "contributions": [
+        {
+          "kind": "suggestion",
+          "ref": "#6",
+          "url": "https://github.com/confused4now-books/platform-test-book/issues/6",
+          "date": "2026-10-06",
+          "pages": [
+            "chapters/chapter-1.md"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dept Coordinator Test",
+      "github": "dept-coordinator-test",
+      "counts": {
+        "edit": 0,
+        "note": 0,
+        "suggestion": 0,
+        "commit": 1
+      },
+      "contributions": [
+        {
+          "kind": "commit",
+          "ref": "8c77e62",
+          "url": "https://github.com/confused4now-books/platform-test-book/commit/8c77e624ebec4f5d41acb10c571ef9dd49c9e2b3",
+          "date": "2026-09-24",
+          "pages": [
+            "chapters/chapter-1.md",
+            "chapters/chapter-2.md",
+            "chapters/chapter-3.md",
+            "index.md"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "gobi10k",
+      "github": "gobi10k",
+      "counts": {
+        "edit": 0,
+        "note": 1,
+        "suggestion": 0,
+        "commit": 0
+      },
+      "contributions": [
+        {
+          "kind": "note",
+          "ref": "#12",
+          "url": "https://github.com/confused4now-books/platform-test-book/issues/12",
+          "date": "2026-10-09",
+          "pages": [
+            "chapters/chapter-01.md"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "textbookproject2026-alt",
+      "github": "textbookproject2026-alt",
+      "counts": {
+        "edit": 0,
+        "note": 0,
+        "suggestion": 0,
+        "commit": 7
+      },
+      "contributions": [
+        {
+          "kind": "commit",
+          "ref": "0e36d97",
+          "url": "https://github.com/confused4now-books/platform-test-book/commit/0e36d970feaa717f768db200d3d51635757adb3b",
+          "date": "2026-10-07",
+          "pages": [
+            "chapters/chapter-1.md"
+          ]
+        },
+        {
+          "kind": "commit",
+          "ref": "113fd8e",
+          "url": "https://github.com/confused4now-books/platform-test-book/commit/113fd8edaf234bf74bc07e0984931dd011a254a5",
+          "date": "2026-10-07",
+          "pages": [
+            "chapters/chapter-04.md"
+          ]
+        },
+        {
+          "kind": "commit",
+          "ref": "3374db4",
+          "url": "https://github.com/confused4now-books/platform-test-book/commit/3374db4b5ca6b775e485d1f7d32a4c73208ceabc",
+          "date": "2026-10-08",
+          "pages": [
+            "chapters/chapter-01.md",
+            "chapters/chapter-02.md",
+            "chapters/chapter-03.md"
+          ]
+        },
+        {
+          "kind": "commit",
+          "ref": "44f2c88",
+          "url": "https://github.com/confused4now-books/platform-test-book/commit/44f2c88c2525b2c348adc0b8163faf629f8c9b57",
+          "date": "2026-10-08",
+          "pages": [
+            "chapters/chapter-1.md"
+          ]
+        },
+        {
+          "kind": "commit",
+          "ref": "a28d594",
+          "url": "https://github.com/confused4now-books/platform-test-book/commit/a28d5940601d58da34e66649898e9c696e1f5c6b",
+          "date": "2026-10-08",
+          "pages": [
+            "index.md"
+          ]
+        },
+        {
+          "kind": "commit",
+          "ref": "b94e81e",
+          "url": "https://github.com/confused4now-books/platform-test-book/commit/b94e81e890bf6ccb5814977a1460875c50e422af",
+          "date": "2026-10-08",
+          "pages": [
+            "chapters/chapter-1.md"
+          ]
+        },
+        {
+          "kind": "commit",
+          "ref": "ca901ec",
+          "url": "https://github.com/confused4now-books/platform-test-book/commit/ca901ec153c0e29806dc6183e786c058cf7132b3",
+          "date": "2026-10-08",
+          "pages": [
+            "index.md"
+          ]
+        }
+      ]
+    }
+  ]
+}
