@@ -1,5 +1,8 @@
 ---
 title: Platform test book
+editors:
+  - name: "Josiah Carberry"
+    orcid: "0000-0002-1825-0097"
 ---
 
 **This is not a textbook.** It is a throwaway site that exists to test the
