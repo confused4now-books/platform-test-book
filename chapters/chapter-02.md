@@ -1,5 +1,8 @@
 ---
 title: "Chapter 2: Placeholder methods"
+editors:
+  - name: "Chapter Test Editor"
+    orcid: "0000-0002-1694-233X"
 ---
 
 A second page, so that suggestions can be seen to name the page they were made
