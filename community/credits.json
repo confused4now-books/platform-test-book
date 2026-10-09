@@ -22,30 +22,6 @@
       ]
     },
     {
-      "name": "Dept Coordinator Test",
-      "github": "dept-coordinator-test",
-      "counts": {
-        "edit": 0,
-        "note": 0,
-        "suggestion": 0,
-        "commit": 1
-      },
-      "contributions": [
-        {
-          "kind": "commit",
-          "ref": "8c77e62",
-          "url": "https://github.com/confused4now-books/platform-test-book/commit/8c77e624ebec4f5d41acb10c571ef9dd49c9e2b3",
-          "date": "2026-09-24",
-          "pages": [
-            "chapters/chapter-1.md",
-            "chapters/chapter-2.md",
-            "chapters/chapter-3.md",
-            "index.md"
-          ]
-        }
-      ]
-    },
-    {
       "name": "gobi10k",
       "github": "gobi10k",
       "counts": {
@@ -73,7 +49,7 @@
         "edit": 0,
         "note": 0,
         "suggestion": 0,
-        "commit": 7
+        "commit": 14
       },
       "contributions": [
         {
@@ -107,6 +83,24 @@
         },
         {
           "kind": "commit",
+          "ref": "3bac23f",
+          "url": "https://github.com/confused4now-books/platform-test-book/commit/3bac23ffef5a77c6765baaef2fd4d57ef2fefa16",
+          "date": "2026-10-08",
+          "pages": [
+            "index.md"
+          ]
+        },
+        {
+          "kind": "commit",
+          "ref": "3e1e2b4",
+          "url": "https://github.com/confused4now-books/platform-test-book/commit/3e1e2b445d8c63803bbe20abe6da24091bf2d4fb",
+          "date": "2026-10-08",
+          "pages": [
+            "index.md"
+          ]
+        },
+        {
+          "kind": "commit",
           "ref": "44f2c88",
           "url": "https://github.com/confused4now-books/platform-test-book/commit/44f2c88c2525b2c348adc0b8163faf629f8c9b57",
           "date": "2026-10-08",
@@ -118,6 +112,15 @@
           "kind": "commit",
           "ref": "a28d594",
           "url": "https://github.com/confused4now-books/platform-test-book/commit/a28d5940601d58da34e66649898e9c696e1f5c6b",
+          "date": "2026-10-08",
+          "pages": [
+            "index.md"
+          ]
+        },
+        {
+          "kind": "commit",
+          "ref": "af36238",
+          "url": "https://github.com/confused4now-books/platform-test-book/commit/af362388d3bc6df52eaa13b10d6632270e350e26",
           "date": "2026-10-08",
           "pages": [
             "index.md"
@@ -137,6 +140,43 @@
           "ref": "ca901ec",
           "url": "https://github.com/confused4now-books/platform-test-book/commit/ca901ec153c0e29806dc6183e786c058cf7132b3",
           "date": "2026-10-08",
+          "pages": [
+            "index.md"
+          ]
+        },
+        {
+          "kind": "commit",
+          "ref": "2280a07",
+          "url": "https://github.com/confused4now-books/platform-test-book/commit/2280a07c6517717de4928fd82c86e13c765f92ef",
+          "date": "2026-10-09",
+          "pages": [
+            "chapters/chapter-01.md"
+          ]
+        },
+        {
+          "kind": "commit",
+          "ref": "50c54cb",
+          "url": "https://github.com/confused4now-books/platform-test-book/commit/50c54cb6851b09737e4a6e735e2ffa613c3aff27",
+          "date": "2026-10-09",
+          "pages": [
+            "chapters/chapter-02.md"
+          ]
+        },
+        {
+          "kind": "commit",
+          "ref": "7e0de21",
+          "url": "https://github.com/confused4now-books/platform-test-book/commit/7e0de21905b31db0fc42eeb3ad38e119c9af99a4",
+          "date": "2026-10-09",
+          "pages": [
+            "chapters/chapter-01.md",
+            "index.md"
+          ]
+        },
+        {
+          "kind": "commit",
+          "ref": "9a8b985",
+          "url": "https://github.com/confused4now-books/platform-test-book/commit/9a8b9856c432d439ec177b5577235672ed0125f8",
+          "date": "2026-10-09",
           "pages": [
             "index.md"
           ]

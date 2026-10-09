@@ -4,22 +4,22 @@
 
 ## Authors
 
-The book names no authors yet.
+- Platform Test Author — [[chapters/chapter-01\|chapter-01]]
 
 ## Editors
 
-The book names no editors.
+- Josiah Carberry ([ORCID](https://orcid.org/0000-0002-1825-0097))
+- Chapter Test Editor ([ORCID](https://orcid.org/0000-0002-1694-233X)) — [[chapters/chapter-02\|Chapter 2: Placeholder methods]]
 
 ## Contributors
 
-4 people have contributed so far.
+3 people have contributed so far.
 
 | Contributor | Contributions | Pages | References |
 | --- | --- | --- | --- |
 | alec | 1 suggestion | — | [#6](https://github.com/confused4now-books/platform-test-book/issues/6) |
-| Dept Coordinator Test ([GitHub](https://github.com/dept-coordinator-test)) | 1 commit | [[index\|Platform test book]] | — |
 | gobi10k ([GitHub](https://github.com/gobi10k)) | 1 note | [[chapters/chapter-01\|chapter-01]] | [#12](https://github.com/confused4now-books/platform-test-book/issues/12) |
-| textbookproject2026-alt ([GitHub](https://github.com/textbookproject2026-alt)) | 7 commits | [[chapters/chapter-01\|chapter-01]], [[chapters/chapter-02\|Chapter 2: Placeholder methods]], [[chapters/chapter-03\|Chapter 3: Placeholder conclusions]], [[chapters/chapter-04\|chapter-04]], [[index\|Platform test book]] | — |
+| textbookproject2026-alt ([GitHub](https://github.com/textbookproject2026-alt)) | 14 commits | [[chapters/chapter-01\|chapter-01]], [[chapters/chapter-02\|Chapter 2: Placeholder methods]], [[chapters/chapter-03\|Chapter 3: Placeholder conclusions]], [[chapters/chapter-04\|chapter-04]], [[index\|Platform test book]] | — |
 
 ## By page
 
@@ -41,7 +41,7 @@ The book names no editors.
 
 <a id="page-index"></a>
 
-**[[index\|Platform test book]]**: Dept Coordinator Test and textbookproject2026-alt
+**[[index\|Platform test book]]**: textbookproject2026-alt
 
 ## How credit works
 
