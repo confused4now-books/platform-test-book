@@ -5,8 +5,8 @@ editors:
     orcid: "0000-0002-1694-233X"
 ---
 
-A second page, so that suggestions can be seen to name the page they were made
-on and not just the first one.
+A second page, so that every suggestion can be seen to name the page it was
+made on, and not only the first one.
 
 ## Method
 
