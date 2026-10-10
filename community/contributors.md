@@ -13,18 +13,23 @@
 
 ## Contributors
 
-2 people have contributed so far.
+3 people have contributed so far.
 
 | Contributor | Contributions | Pages | References |
 | --- | --- | --- | --- |
 | alec | 1 suggestion | — | [#6](https://github.com/confused4now-books/platform-test-book/issues/6) |
 | gobi10k ([GitHub](https://github.com/gobi10k)) | 1 note | [[chapters/chapter-01\|chapter-01]] | [#12](https://github.com/confused4now-books/platform-test-book/issues/12) |
+| Part 3 Test Member | 2 commits | [[chapters/chapter-04\|chapter-04]] | — |
 
 ## By page
 
 <a id="page-chapters-chapter-01"></a>
 
 **[[chapters/chapter-01\|chapter-01]]**: gobi10k
+
+<a id="page-chapters-chapter-04"></a>
+
+**[[chapters/chapter-04\|chapter-04]]**: Part 3 Test Member
 
 ## How credit works
 
