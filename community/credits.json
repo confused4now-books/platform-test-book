@@ -41,6 +41,35 @@
           ]
         }
       ]
+    },
+    {
+      "name": "Part 3 Test Member",
+      "counts": {
+        "edit": 0,
+        "note": 0,
+        "suggestion": 0,
+        "commit": 2
+      },
+      "contributions": [
+        {
+          "kind": "commit",
+          "ref": "397f76d",
+          "url": "https://github.com/confused4now-books/platform-test-book/commit/397f76dedf7fbedd17a9a956b042df411c465502",
+          "date": "2026-10-10",
+          "pages": [
+            "chapters/chapter-04.md"
+          ]
+        },
+        {
+          "kind": "commit",
+          "ref": "9cdfbeb",
+          "url": "https://github.com/confused4now-books/platform-test-book/commit/9cdfbebf5d04d2ff55e35d2fc8557b1c0b3993c6",
+          "date": "2026-10-10",
+          "pages": [
+            "chapters/chapter-04.md"
+          ]
+        }
+      ]
     }
   ]
 }
