@@ -14,11 +14,12 @@ The real textbook is at [social-research-methods.confused4now.org](https://socia
 
 ## Contents
 
-- **[[chapters/chapter-05|chapter-05]]**
-
 1. [[chapters/chapter-01|Chapter 1: Placeholder foundations]]
+
 2. [[chapters/chapter-02|Chapter 2: Placeholder methods]]
+
 3. [[chapters/chapter-03|Chapter 3: Placeholder conclusions]]
+
 4. [[chapters/chapter-04|Chapter 4: Test headings]]
 
 Each chapter has a **Suggest an edit** button under its title. Suggestions from
