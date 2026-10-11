@@ -1,5 +1,5 @@
 ---
-title: "Chapter 2: Placeholder methods"
+title: "Chapter 2: Placeholder methods" (Platform test d.)
 editors:
   - name: "Chapter Test Editor"
     orcid: "0000-0002-1694-233X"
