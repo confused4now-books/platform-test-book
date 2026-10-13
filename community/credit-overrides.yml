@@ -2,3 +2,6 @@
 # Batch 2a check: hiding a contributor removes them on the next build.
 hide:
   - Dept Coordinator Test
+# One person: "alec" is the name Alec typed on suggestion #6 (13 Oct).
+merge:
+  - [Alec Gordon, alec]
