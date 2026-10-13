@@ -2,7 +2,7 @@
   "version": 1,
   "contributors": [
     {
-      "name": "alec",
+      "name": "Alec Gordon",
       "counts": {
         "edit": 0,
         "note": 0,
@@ -17,57 +17,6 @@
           "date": "2026-10-06",
           "pages": [
             "chapters/chapter-1.md"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Alec Gordon",
-      "counts": {
-        "edit": 0,
-        "note": 0,
-        "suggestion": 0,
-        "commit": 1
-      },
-      "contributions": [
-        {
-          "kind": "commit",
-          "ref": "3899715",
-          "url": "https://github.com/confused4now-books/platform-test-book/commit/3899715257dd69161fd46902a56ef3b76879b279",
-          "date": "2026-10-13",
-          "pages": [
-            "chapters/chapter-03.md"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "c4n-api measurement",
-      "counts": {
-        "edit": 0,
-        "note": 0,
-        "suggestion": 0,
-        "commit": 2
-      },
-      "contributions": [
-        {
-          "kind": "commit",
-          "ref": "0e9a20d",
-          "url": "https://github.com/confused4now-books/platform-test-book/commit/0e9a20d8bf0c19a9e00cb65c55ef256c3bbefe0e",
-          "date": "2026-10-11",
-          "pages": [
-            "chapters/chapter-05.md",
-            "index.md"
-          ]
-        },
-        {
-          "kind": "commit",
-          "ref": "f20b519",
-          "url": "https://github.com/confused4now-books/platform-test-book/commit/f20b5190c9a73f60222f2f904c42ff2d6869e956",
-          "date": "2026-10-11",
-          "pages": [
-            "chapters/chapter-05.md",
-            "index.md"
           ]
         }
       ]
@@ -89,35 +38,6 @@
           "date": "2026-10-09",
           "pages": [
             "chapters/chapter-01.md"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Part 3 Test Member",
-      "counts": {
-        "edit": 0,
-        "note": 0,
-        "suggestion": 0,
-        "commit": 2
-      },
-      "contributions": [
-        {
-          "kind": "commit",
-          "ref": "397f76d",
-          "url": "https://github.com/confused4now-books/platform-test-book/commit/397f76dedf7fbedd17a9a956b042df411c465502",
-          "date": "2026-10-10",
-          "pages": [
-            "chapters/chapter-04.md"
-          ]
-        },
-        {
-          "kind": "commit",
-          "ref": "9cdfbeb",
-          "url": "https://github.com/confused4now-books/platform-test-book/commit/9cdfbebf5d04d2ff55e35d2fc8557b1c0b3993c6",
-          "date": "2026-10-10",
-          "pages": [
-            "chapters/chapter-04.md"
           ]
         }
       ]
