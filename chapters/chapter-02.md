@@ -6,7 +6,7 @@ editors:
 ---
 
 A second page, so that suggestions can be seen to name the page they were made
-on and not just the first one.
+on and not just the first two.
 
 ## Method
 
