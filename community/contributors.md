@@ -10,14 +10,17 @@
 
 - Josiah Carberry
 - Chapter Test Editor — [[chapters/chapter-02\|Chapter 2: Placeholder methods]]
+- JImmy Fakerson — [[chapters/chapter-03\|Chapter 3: Placeholder conclusions]]
 
 ## Contributors
 
-3 people have contributed so far.
+5 people have contributed so far.
 
 | Contributor | Contributions | Pages | References |
 | --- | --- | --- | --- |
 | alec | 1 suggestion | — | [#6](https://github.com/confused4now-books/platform-test-book/issues/6) |
+| Alec Gordon | 1 commit | [[chapters/chapter-03\|Chapter 3: Placeholder conclusions]] | — |
+| c4n-api measurement | 2 commits | [[index\|Platform test book]] | — |
 | gobi10k ([GitHub](https://github.com/gobi10k)) | 1 note | [[chapters/chapter-01\|chapter-01]] | [#12](https://github.com/confused4now-books/platform-test-book/issues/12) |
 | Part 3 Test Member | 2 commits | [[chapters/chapter-04\|chapter-04]] | — |
 
@@ -27,9 +30,17 @@
 
 **[[chapters/chapter-01\|chapter-01]]**: gobi10k
 
+<a id="page-chapters-chapter-03"></a>
+
+**[[chapters/chapter-03\|Chapter 3: Placeholder conclusions]]**: Alec Gordon
+
 <a id="page-chapters-chapter-04"></a>
 
 **[[chapters/chapter-04\|chapter-04]]**: Part 3 Test Member
+
+<a id="page-index"></a>
+
+**[[index\|Platform test book]]**: c4n-api measurement
 
 ## How credit works
 
