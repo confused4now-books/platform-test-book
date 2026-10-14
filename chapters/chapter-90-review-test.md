@@ -1,8 +1,8 @@
 # Review test (platform test)
 
-Paragraph 1 of the review test says something plain about soil number 1 and leaves it there.
+Paragraph 1 of the review test says something clear about soil number 1 and leaves it there.
 
-Paragraph 2 of the review test says something plain about soil number 2 and leaves it there.
+Paragraph 2 of the review test says something plain about soil number 2 and stops.
 
 Paragraph 3 of the review test says something plain about soil number 3 and leaves it there.
 
