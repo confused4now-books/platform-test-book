@@ -20,9 +20,9 @@ Paragraph 9 of the review test says something plain about soil number 9 and leav
 
 Paragraph 10 of the review test says something plain about soil number 10, autosaved, and leaves it there.
 
-Paragraph 11 of the review test says something plain about soil number 11 and leaves it there (edit 11).
+Paragraph 11 of the review test says something exact about soil number 11 and leaves it there (edit 11).
 
-Paragraph 12 of the review test says something plain about soil number 12 and leaves it there (edit 12).
+Paragraph 12 of the review test says something fair about soil number 12 and leaves it there (edit 12).
 
 Paragraph 13 of the review test says something plain about soil number 13 and leaves it there (edit 13).
 
