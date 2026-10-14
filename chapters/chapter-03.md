@@ -4,7 +4,7 @@ editors:
   - "JImmy Fakerson"
 ---
 
-The last page. It is here so that the book has more than two chapters and the
+The final page. It is here so that the book has more than two chapters and the
 console's list of suggestions can show more than one page name.
 
 ## Conclusion
