@@ -20,21 +20,21 @@ Paragraph 9 of the review test says something plain about soil number 9 and leav
 
 Paragraph 10 of the review test says something plain about soil number 10, autosaved, and leaves it there.
 
-Paragraph 11 of the review test says something plain about soil number 11 and leaves it there (edit 11).
+Paragraph 11 of the review test says something exact about soil number 11 and leaves it there (edit 11).
 
-Paragraph 12 of the review test says something plain about soil number 12 and leaves it there (edit 12).
+Paragraph 12 of the review test says something fair about soil number 12 and leaves it there (edit 12).
 
-Paragraph 13 of the review test says something plain about soil number 13 and leaves it there (edit 13).
+Paragraph 13 of the review test says something plain about loam number 13 and leaves it there (edit 13).
 
-Paragraph 14 of the review test says something plain about soil number 14 and leaves it there (edit 14).
+Paragraph 14 of the review test says something plain about silt number 14 and leaves it there (edit 14).
 
-Paragraph 15 of the review test says something plain about soil number 15 and leaves it there (edit 15).
+Paragraph 15 of the review test says something plain about peat number 15 and leaves it there (edit 15).
 
-Paragraph 16 of the review test says something plain about soil number 16 and leaves it there (edit 16).
+Paragraph 16 of the review test says something clear about soil number 16 and leaves it there (edit 16).
 
 Paragraph 17 of the review test says something plain about soil number 17 and leaves it there (edit 17).
 
-Paragraph 18 of the review test says something plain about soil number 18 and leaves it there (edit 18).
+Paragraph 18 of the review test says something plain about rich soil number 18 and leaves it there (edit 18).
 
 Paragraph 19 of the review test says something plain about soil number 19 and leaves it there (edit 19).
 
