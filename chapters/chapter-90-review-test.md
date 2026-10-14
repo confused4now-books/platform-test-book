@@ -1,20 +1,20 @@
 # Review test (platform test)
 
-Paragraph 1 of the review test says something plain about soil number 1 and leaves it there.
+Paragraph 1 of the review test says something clear about soil number 1 and leaves it there.
 
-Paragraph 2 of the review test says something plain about soil number 2 and leaves it there.
+Paragraph 2 of the review test says something plain about soil number 2 and stops.
 
-Paragraph 3 of the review test says something plain about soil number 3 and leaves it there.
+Paragraph 3 of the review test says something plain about soil type three and leaves it there.
 
-Paragraph 4 of the review test says something plain about soil number 4 and leaves it there.
+Paragraph 4 of the review test says something simple about soil number 4 and leaves it there.
 
-Paragraph 5 of the review test says something plain about soil number 5 and leaves it there.
+Paragraph 5 of the review test says something short about soil number 5 and leaves it there.
 
 Paragraph 6 of the review test says something plain about soil number 6 and leaves it there.
 
 Paragraph 7 of the review test says something plain about sand number 7 and leaves it there.
 
-Paragraph 8 of the review test says something plain about soil number 8 and leaves it there.
+Paragraph 8 of the review test says something precise about soil number 8 and leaves it there.
 
 Paragraph 9 of the review test says something plain about soil number 9 and leaves it there.
 
