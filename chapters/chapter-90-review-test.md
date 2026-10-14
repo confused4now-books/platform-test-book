@@ -6,11 +6,11 @@ Paragraph 2 of the review test says something plain about soil number 2 and leav
 
 Paragraph 3 of the review test says something plain about soil number 3 and leaves it there.
 
-Paragraph 4 of the review test says something plain about soil number 4 and leaves it there.
+Paragraph 4 of the review test says something simple about soil number 4 and leaves it there.
 
-Paragraph 5 of the review test says something plain about soil number 5 and leaves it there.
+Paragraph 5 of the review test says something short about soil number 5 and leaves it there.
 
-Paragraph 6 of the review test says something plain about soil number 6 and leaves it there.
+Paragraph 6 of the review test says something brief about soil number 6 and leaves it there.
 
 Paragraph 7 of the review test says something plain about soil number 7 and leaves it there.
 
