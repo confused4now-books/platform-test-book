@@ -4,7 +4,7 @@ Paragraph 1 of the review test says something plain about soil number 1 and leav
 
 Paragraph 2 of the review test says something plain about soil number 2 and leaves it there.
 
-Paragraph 3 of the review test says something plain about soil number 3 and leaves it there.
+Paragraph 3 of the review test says something plain about soil kind 3 and leaves it there.
 
 Paragraph 4 of the review test says something plain about soil number 4 and leaves it there.
 
