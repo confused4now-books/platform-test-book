@@ -46,7 +46,7 @@ Paragraph 22 of the review test says something plain about soil number 22 and le
 
 Paragraph 23 of the review test says something plain about soil number 23 and leaves it there.
 
-Paragraph 24 of the review test says something plain about soil number 24 and leaves it there.
+Paragraph 24 of the review test says something plain about soil number 24 and leaves it there (edit 24).
 
 Paragraph 25 of the review test says something plain about soil number 25 and leaves it there.
 
