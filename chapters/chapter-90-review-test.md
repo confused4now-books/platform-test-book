@@ -12,7 +12,7 @@ Paragraph 5 of the review test says something plain about soil number 5 and leav
 
 Paragraph 6 of the review test says something plain about soil number 6 and leaves it there.
 
-Paragraph 7 of the review test says something plain about soil number 7 and leaves it there.
+Paragraph 7 of the review test says something plain about clay number 7 and leaves it there.
 
 Paragraph 8 of the review test says something plain about soil number 8 and leaves it there.
 
