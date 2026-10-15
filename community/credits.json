@@ -7,7 +7,7 @@
         "edit": 0,
         "note": 0,
         "suggestion": 1,
-        "commit": 0
+        "commit": 2
       },
       "contributions": [
         {
@@ -17,6 +17,24 @@
           "date": "2026-10-06",
           "pages": [
             "chapters/chapter-1.md"
+          ]
+        },
+        {
+          "kind": "commit",
+          "ref": "d4dc5d9",
+          "url": "https://github.com/confused4now-books/platform-test-book/commit/d4dc5d9085b0c8711e9bc32f4f197b02d12cfaca",
+          "date": "2026-10-15",
+          "pages": [
+            "chapters/chapter-02.md"
+          ]
+        },
+        {
+          "kind": "commit",
+          "ref": "dfc7e83",
+          "url": "https://github.com/confused4now-books/platform-test-book/commit/dfc7e834a5f267ffb3b4150f44a5e0ae96b57b2c",
+          "date": "2026-10-15",
+          "pages": [
+            "chapters/chapter-02.md"
           ]
         }
       ]

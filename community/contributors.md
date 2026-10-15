@@ -18,7 +18,7 @@
 
 | Contributor | Contributions | Pages | References |
 | --- | --- | --- | --- |
-| Alec Gordon | 1 suggestion | — | [#6](https://github.com/confused4now-books/platform-test-book/issues/6) |
+| Alec Gordon | 2 edits, 1 suggestion | [[chapters/chapter-02\|Chapter 2: Placeholder methods]] | [#6](https://github.com/confused4now-books/platform-test-book/issues/6) |
 | gobi10k ([GitHub](https://github.com/gobi10k)) | 1 note | [[chapters/chapter-01\|Chapter 1]] | [#12](https://github.com/confused4now-books/platform-test-book/issues/12) |
 
 ## By page
@@ -26,6 +26,10 @@
 <a id="page-chapters-chapter-01"></a>
 
 **[[chapters/chapter-01\|Chapter 1]]**: gobi10k
+
+<a id="page-chapters-chapter-02"></a>
+
+**[[chapters/chapter-02\|Chapter 2: Placeholder methods]]**: Alec Gordon
 
 ## How credit works
 
