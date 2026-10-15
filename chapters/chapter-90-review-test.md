@@ -2,7 +2,7 @@
 
 Soil is the thin, living skin of the land. It forms where rock, water, air and living things meet, and it changes slowly over thousands of years.
 
-Weathering breaks rock into smaller pieces. Frost splits stone along its joints, and rain dissolves minerals from its surface.
+Weathering breaks rock into smaller pieces. Frost splits stone along its joints, and rain slowly dissolves minerals from its surface.
 
 Plants and animals add organic matter. Roots open channels that let air and water in, and worms mix the upper layers as they feed.
 
