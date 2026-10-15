@@ -10,7 +10,7 @@ on and not just the first one.
 
 ## Method
 
-Placeholder text about a method. Every suggestion names the file it was made on,
+Placeholder text about a method, edited in the drafts (platform test). Every suggestion names the file it was made on,
 and the console looks that file up in the vault before it will change anything.
 This paragraph also contains a deliberate misspelling: the file must exist
 separately in each book's repository.
