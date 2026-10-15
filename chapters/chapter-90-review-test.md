@@ -8,7 +8,7 @@ Plants and animals add organic matter. Roots open channels in the ground, and wo
 
 Over time the soil develops layers called horizons. The topsoil is usually darkest, because it holds the most organic matter.
 
-Climate shapes every one of these processes. Warm, wet places weather rock quickly, while cold, dry places weather it slowly.
+Climate shapes every one of these processes. Warm, wet places break rock down quickly, while cold, dry places weather it slowly.
 
 Farmers depend on healthy soil to grow food. Ploughing too often can damage its structure and leave it open to erosion.
 
