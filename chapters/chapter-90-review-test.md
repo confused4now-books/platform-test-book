@@ -4,7 +4,7 @@ Soil is the thin, living skin of the land. It forms where rock, water, air and l
 
 Weathering breaks rock into smaller pieces. Frost splits stone along its cracks, and rain dissolves minerals from its surface.
 
-Plants and animals add organic matter. Roots open channels in the ground, and worms mix the upper layers as they feed.
+Plants and animals add organic matter. Roots open channels that let air and water in, and worms mix the upper layers as they feed.
 
 Over time the soil develops layers called horizons. The topsoil is usually darkest, because it holds the most organic matter.
 
