@@ -12,6 +12,6 @@ Climate shapes every one of these processes. Warm, wet places weather rock fast,
 
 Farmers depend on healthy soil to grow food. Ploughing too often damages its structure and leaves it open to erosion, so many farmers now plough less (platform test).
 
-Erosion by wind and water can remove in a single season what took centuries to form.
+Erosion by wind and water (changed meanwhile, platform test) can remove in a single season what took centuries to form.
 
 Protecting soil means keeping it covered with plants, adding organic matter and disturbing it only when needed.
