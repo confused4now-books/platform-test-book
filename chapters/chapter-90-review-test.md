@@ -6,7 +6,7 @@ Weathering breaks rock into smaller pieces. Frost splits stone along its joints,
 
 Plants and animals add organic matter. Roots open channels that let air and water in, and worms mix the upper layers as they feed.
 
-Over time the soil develops distinct layers known as horizons. The topsoil is usually darkest, because it holds the most organic matter.
+Over time the soil develops bands called horizons. The topsoil is usually darkest, because it holds the most organic matter.
 
 Climate shapes every one of these processes. Warm, wet places weather rock fast, while cold, dry places weather it slowly.
 
