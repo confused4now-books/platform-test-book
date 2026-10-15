@@ -41,26 +41,6 @@
           ]
         }
       ]
-    },
-    {
-      "name": "Review Tester Eve",
-      "counts": {
-        "edit": 0,
-        "note": 1,
-        "suggestion": 0,
-        "commit": 0
-      },
-      "contributions": [
-        {
-          "kind": "note",
-          "ref": "#164",
-          "url": "https://github.com/confused4now-books/platform-test-book/issues/164",
-          "date": "2026-10-15",
-          "pages": [
-            "chapters/chapter-90-review-test.md"
-          ]
-        }
-      ]
     }
   ]
 }

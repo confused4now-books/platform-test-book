@@ -14,13 +14,12 @@
 
 ## Contributors
 
-3 people have contributed so far.
+2 people have contributed so far.
 
 | Contributor | Contributions | Pages | References |
 | --- | --- | --- | --- |
 | Alec Gordon | 1 suggestion | — | [#6](https://github.com/confused4now-books/platform-test-book/issues/6) |
 | gobi10k ([GitHub](https://github.com/gobi10k)) | 1 note | [[chapters/chapter-01\|Chapter 1]] | [#12](https://github.com/confused4now-books/platform-test-book/issues/12) |
-| Review Tester Eve | 1 note | — | [#164](https://github.com/confused4now-books/platform-test-book/issues/164) |
 
 ## By page
 
