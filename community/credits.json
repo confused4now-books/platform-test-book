@@ -41,66 +41,6 @@
           ]
         }
       ]
-    },
-    {
-      "name": "Review Tester Ada",
-      "counts": {
-        "edit": 1,
-        "note": 0,
-        "suggestion": 0,
-        "commit": 0
-      },
-      "contributions": [
-        {
-          "kind": "edit",
-          "ref": "#112",
-          "url": "https://github.com/confused4now-books/platform-test-book/pull/112",
-          "date": "2026-10-14",
-          "pages": [
-            "chapters/chapter-90-review-test.md"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Review Tester Cleo",
-      "counts": {
-        "edit": 1,
-        "note": 0,
-        "suggestion": 0,
-        "commit": 0
-      },
-      "contributions": [
-        {
-          "kind": "edit",
-          "ref": "#139",
-          "url": "https://github.com/confused4now-books/platform-test-book/pull/139",
-          "date": "2026-10-14",
-          "pages": [
-            "chapters/chapter-90-review-test.md"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Review Tester Dev",
-      "counts": {
-        "edit": 1,
-        "note": 0,
-        "suggestion": 0,
-        "commit": 0
-      },
-      "contributions": [
-        {
-          "kind": "edit",
-          "ref": "#144",
-          "url": "https://github.com/confused4now-books/platform-test-book/pull/144",
-          "date": "2026-10-14",
-          "pages": [
-            "chapters/chapter-90-review-test.md"
-          ]
-        }
-      ]
     }
   ]
 }
