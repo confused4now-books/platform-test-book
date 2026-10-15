@@ -14,4 +14,4 @@ Farmers depend on healthy soil to grow food. Ploughing too often can damage its 
 
 Erosion by wind and water can remove in a single season what took centuries to form.
 
-Protecting soil means keeping it covered, adding organic matter and disturbing it as little as possible.
+Protecting soil means keeping it covered, adding organic matter and disturbing it only when needed.
