@@ -10,7 +10,7 @@ Over time the soil develops bands called horizons. The topsoil is usually darkes
 
 Climate shapes every one of these processes. Warm, wet places weather rock fast, while cold, dry places weather it slowly.
 
-Farmers depend on healthy soil to grow food. Ploughing too often damages its structure and leave it open to erosion.
+Farmers depend on healthy soil to grow food. Ploughing too often damages its structure and leaves it open to erosion.
 
 Erosion by wind and water can remove in a single season what took centuries to form.
 
