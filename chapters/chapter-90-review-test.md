@@ -1,61 +1,17 @@
-# Review test (platform test)
+# Review test: how soil forms (platform test)
 
-Paragraph 1 of the review test says something clear about soil number 1 and leaves it there.
+Soil is the thin, living skin of the land. It forms where rock, water, air and living things meet, and it changes slowly over thousands of years.
 
-Paragraph 2 of the review test says something plain about soil number 2 and stops.
+Weathering breaks rock into smaller pieces. Frost splits stone along its cracks, and rain dissolves minerals from its surface.
 
-Paragraph 3 of the review test says something plain about soil type three and leaves it there.
+Plants and animals add organic matter. Roots open channels in the ground, and worms mix the upper layers as they feed.
 
-Paragraph 4 of the review test says something simple about soil number 4 and leaves it there.
+Over time the soil develops layers called horizons. The topsoil is usually darkest, because it holds the most organic matter.
 
-Paragraph 5 of the review test says something short about soil number 5 and leaves it there.
+Climate shapes every one of these processes. Warm, wet places weather rock quickly, while cold, dry places weather it slowly.
 
-Paragraph 6 of the review test says something plain about soil number 6 and leaves it there.
+Farmers depend on healthy soil to grow food. Ploughing too often can damage its structure and leave it open to erosion.
 
-Paragraph 7 of the review test says something plain about sand number 7 and leaves it there.
+Erosion by wind and water can remove in a single season what took centuries to form.
 
-Paragraph 8 of the review test says something precise about soil number 8 and leaves it there.
-
-Paragraph 9 of the review test says something plain about soil number 9 and leaves it there.
-
-Paragraph 10 of the review test says something plain about soil number 10, autosaved, and leaves it there.
-
-Paragraph 11 of the review test says something exact about soil number 11 and leaves it there (edit 11).
-
-Paragraph 12 of the review test says something fair about soil number 12 and leaves it there (edit 12).
-
-Paragraph 13 of the review test says something plain about loam number 13 and leaves it there (edit 13).
-
-Paragraph 14 of the review test says something plain about silt number 14 and leaves it there (edit 14).
-
-Paragraph 15 of the review test says something plain about peat number 15 and leaves it there (edit 15).
-
-Paragraph 16 of the review test says something clear about soil number 16 and leaves it there (edit 16).
-
-Paragraph 17 of the review test says something plain about soil number 17 and leaves it there (edit 17).
-
-Paragraph 18 of the review test says something plain about rich soil number 18 and leaves it there (edit 18).
-
-Paragraph 19 of the review test says something plain about soil number 19 and leaves it there (edit 19).
-
-Paragraph 20 of the review test says something plain about soil number 20 and leaves it there (edit 20).
-
-Paragraph 21 of the review test says something plain about soil number 21 and leaves it there (edit 21).
-
-Paragraph 22 of the review test says something plain about soil number 22 and leaves it there (edit 22).
-
-Paragraph 23 of the review test says something plain about soil number 23 and leaves it there (edit 23).
-
-Paragraph 24 of the review test says something plain about soil number 24 and leaves it there (edit 24).
-
-Paragraph 25 of the review test says something plain about soil number 25 (autosaved in another tab) and leaves it there (edit 25).
-
-Paragraph 26 of the review test says something plain about soil number 26 and leaves it there (edit 26).
-
-Paragraph 27 of the review test says something plain about soil number 27 and leaves it there (edit 27).
-
-Paragraph 28 of the review test says something plain about soil number 28 and leaves it there (edit 28).
-
-Paragraph 29 of the review test says something plain about soil number 29 and leaves it there (edit 29).
-
-Paragraph 30 of the review test says something plain about soil number 30 and leaves it there (edit 30).
+Protecting soil means keeping it covered, adding organic matter and disturbing it as little as possible.
