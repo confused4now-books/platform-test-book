@@ -8,7 +8,6 @@ editors:
 A second page, so that suggestions can be seen to name the page they were made
 on and not just the first one.
 
-
 ## Method
 
 Placeholder text about a method. Every suggestion names the file it was made on,
