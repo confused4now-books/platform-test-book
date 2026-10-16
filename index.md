@@ -20,7 +20,6 @@ The real textbook is at [social-research-methods.confused4now.org](https://socia
 4. [[chapters/chapter-04|Chapter 4: Test headings]]
 5. [[chapters/chapter-05|Chapter 5: DOI test]]
 6. [[chapters/chapter-91-publish-test|Chapter 91: Publish test A]]
-7. [[chapters/chapter-92-publish-test|Chapter 92: Publish test B]]
 
 Each chapter has a **Suggest an edit** button under its title. Suggestions from
 this site are filed as issues on this book's own repository.
