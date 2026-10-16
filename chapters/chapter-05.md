@@ -21,5 +21,3 @@ In code it is left alone: `10.9999/not-a-link`.
 - Creswell, J. W. (2011). Controversies in mixed methods research. doi:10.1177/1558689810382532
 - Elder-Vass, D. (2019). Realism and social structure. https://doi.org/10.1111/jtsb.12181
 - Fowler, F. (2004). Doubtful wording. [https://doi.org/10.2307/1961840](https://doi.org/10.2307/1961840)
-
-A line added through GitHub directly, to check names on Drafts (platform test, 16 Oct).
