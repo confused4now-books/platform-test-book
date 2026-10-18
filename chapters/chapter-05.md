@@ -21,3 +21,5 @@ In code it is left alone: `10.9999/not-a-link`.
 - Creswell, J. W. (2011). Controversies in mixed methods research. doi:10.1177/1558689810382532
 - Elder-Vass, D. (2019). Realism and social structure. https://doi.org/10.1111/jtsb.12181
 - Fowler, F. (2004). Doubtful wording. [https://doi.org/10.2307/1961840](https://doi.org/10.2307/1961840)
+
+Platform test: [a page that is not there](missing-page.md) and [an outside link that is dead](https://nonexistent.invalid/page).
