@@ -19,3 +19,5 @@ for testing: the maintainer will recieve every suggestion as an issue.
 
 Placeholder text continues here, a little further. The chapter is short on purpose: the test is
 about where suggestions go, not about what they say.
+
+A link that answers 404 on a domain that resolves: [proof](https://www.iana.org/no-such-page-link-check-proof).
