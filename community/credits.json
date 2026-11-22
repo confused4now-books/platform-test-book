@@ -5,11 +5,20 @@
       "name": "Alec Gordon",
       "counts": {
         "edit": 0,
-        "note": 0,
+        "note": 1,
         "suggestion": 0,
         "commit": 2
       },
       "contributions": [
+        {
+          "kind": "note",
+          "ref": "#193",
+          "url": "https://github.com/confused4now-books/platform-test-book/issues/193",
+          "date": "2026-11-21",
+          "pages": [
+            "chapters/chapter-01.md"
+          ]
+        },
         {
           "kind": "commit",
           "ref": "d4dc5d9",
@@ -26,6 +35,36 @@
           "date": "2026-10-15",
           "pages": [
             "chapters/chapter-02.md"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "gobi10k",
+      "github": "gobi10k",
+      "counts": {
+        "edit": 1,
+        "note": 1,
+        "suggestion": 0,
+        "commit": 0
+      },
+      "contributions": [
+        {
+          "kind": "edit",
+          "ref": "#191",
+          "url": "https://github.com/confused4now-books/platform-test-book/pull/191",
+          "date": "2026-11-21",
+          "pages": [
+            "chapters/chapter-01.md"
+          ]
+        },
+        {
+          "kind": "note",
+          "ref": "#196",
+          "url": "https://github.com/confused4now-books/platform-test-book/issues/196",
+          "date": "2026-11-21",
+          "pages": [
+            "chapters/chapter-01.md"
           ]
         }
       ]
