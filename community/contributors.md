@@ -14,13 +14,18 @@
 
 ## Contributors
 
-1 person has contributed so far.
+2 people have contributed so far.
 
 | Contributor | Contributions | Pages | References |
 | --- | --- | --- | --- |
-| Alec Gordon | 2 edits | [[chapters/chapter-02\|Chapter 2: Placeholder methods]] | — |
+| Alec Gordon | 2 edits, 1 note | [[chapters/chapter-01\|Chapter 1]], [[chapters/chapter-02\|Chapter 2: Placeholder methods]] | [#193](https://github.com/confused4now-books/platform-test-book/issues/193) |
+| gobi10k ([GitHub](https://github.com/gobi10k)) | 1 edit, 1 note | [[chapters/chapter-01\|Chapter 1]] | [#191](https://github.com/confused4now-books/platform-test-book/pull/191) [#196](https://github.com/confused4now-books/platform-test-book/issues/196) |
 
 ## By page
+
+<a id="page-chapters-chapter-01"></a>
+
+**[[chapters/chapter-01\|Chapter 1]]**: Alec Gordon and gobi10k
 
 <a id="page-chapters-chapter-02"></a>
 
